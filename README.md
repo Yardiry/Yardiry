@@ -1,4 +1,5 @@
 #Como extraer un texto entre dos caracteres
+
 str= 'Manzana Verde para el batido'
 
 start = 'Verde'
